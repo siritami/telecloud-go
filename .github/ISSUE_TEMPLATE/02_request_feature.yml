@@ -11,14 +11,14 @@ body:
       required: true
 
   - type: textarea
-    id: request
+    id: why
     attributes:
       label: Vì sao tính năng lại cần thiết? | Why is this feature necessary?
     validations:
       required: true
 
   - type: checkboxes
-    id: acknowledgements
+    id: Confirmation
     attributes:
       label: Xác nhận | Confirmation
       options:
