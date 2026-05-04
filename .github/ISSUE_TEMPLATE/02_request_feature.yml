@@ -26,3 +26,5 @@ body:
           required: true
         - label: Tôi đã đọc kĩ các tài liệu trên github telecloud nhưng không nhắc đến tính năng này | I've read the TeleCloud GitHub documentation carefully, but this feature isn't mentioned.
           required: true
+        - label: Tính năng của tôi yêu cầu không dùng vào chuyện phạm pháp | My requested feature must not be used for illegal purposes
+          required: true
